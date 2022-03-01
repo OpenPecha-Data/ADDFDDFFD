@@ -1,0 +1,23 @@
+segment_sources:
+  PDD211C38:
+    type: origin_type
+    relation: translation
+    language: sa
+  P4D29AF4D:
+    type: origin_type
+    relation: translation
+    language: zh
+  P8BBAF02D:
+    type: origin_type
+    relation: translation
+    language: bo
+  P79B0D730:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  020b35814e614cdd8d2cfe86e85d1280:
+    PDD211C38: 66b28447064f4a3595fa19a4323ae095
+    P4D29AF4D: b36e0c109c0d43b6848c4cafdd70b07a
+    P8BBAF02D: bbb8cecf4c784d09be83d435b0685fef
+    P79B0D730: None
